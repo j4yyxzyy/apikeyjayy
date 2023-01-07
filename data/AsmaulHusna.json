@@ -2,11 +2,10 @@
  "author" {
    "status": 404,
    "username": "Jayyy Einzbért",
-   "location": Moscow, Russia
-   "online": true
-   "followers" 23.839
+   "location": "Moscow, Russia"
+   "online": true,
+   "followers" 23.839,
    "message": "nice to meet you.",
-   message = INFINITY;
-   return message;
+   "website": "https://github.com/jayyalfarezy"
 
 }
